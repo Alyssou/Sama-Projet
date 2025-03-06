@@ -1,0 +1,66 @@
+/* fonts */
+export const FontFamily = {
+  sFProDisplay: "SF Pro Display",
+  gAMECUBEN: "GAMECUBEN",
+  outfitMedium: "Outfit-Medium",
+  outfitBold: "Outfit-Bold",
+  sFProText: "SF Pro Text",
+  interBold: "Inter-Bold",
+  interLight: "Inter-Light",
+  interRegular: "Inter-Regular",
+  interSemiBold: "Inter-SemiBold",
+  outfitRegular: "Outfit-Regular",
+  outfitSemiBold: "Outfit-SemiBold",
+  futura: "Futura",
+  outfitLight: "Outfit-Light",
+};
+/* font sizes */
+export const FontSize = {
+  size_5xl: 24,
+  size_17xl: 36,
+  size_lg: 18,
+  size_mini: 15,
+  size_3xl: 22,
+  size_base: 16,
+  size_13xl: 32,
+  size_xl: 20,
+  size_xs: 12,
+  size_5xs: 8,
+  size_smi: 13,
+  size_sm: 14,
+  size_29xl: 48,
+};
+/* Colors */
+export const Color = {
+  colorRoyalblue: "#126afb",
+  colorWhite: "#fff",
+  colorDimgray_100: "#666161",
+  colorGray_100: "#fefefe",
+  lightText: "#828282",
+  colorGray_200: "#2d2626",
+  colorGray_300: "#151e31",
+  colorGray_400: "rgba(255, 255, 255, 0.7)",
+  colorGray_500: "rgba(0, 0, 0, 0.4)",
+  colorGray_600: "rgba(0, 0, 0, 0.07)",
+  colorGray_700: "rgba(0, 0, 0, 0.2)",
+  colorWhitesmoke_100: "#f5f5f5",
+  colorWhitesmoke_200: "#f3f3f3",
+  colorWhitesmoke_300: "#f2f2f2",
+  text: "#4b4b4b",
+  colorDarkslategray_100: "#464444",
+  colorBlack: "#000",
+  primary: "#6498fd",
+  colorSilver_100: "#c4c4c4",
+  colorSilver_200: "#bcbec0",
+  colorLightgray: "#d1d3d4",
+  colorDarkgray: "#a7a9ac",
+};
+/* border radiuses */
+export const Border = {
+  br_mini: 15,
+  br_xl: 20,
+  br_3xs: 10,
+  br_9xs: 4,
+  br_21xl: 40,
+  br_8xs: 5,
+};
