@@ -1,11 +1,11 @@
 import React from "react";
 import { View, StyleSheet } from "react-native";
-import IPhone14 from "../Screens/IPhone14";
+import WelcomeScreen from "../Screens/WelcomeScreen";
 
 const App = () => {
   return (
     <View style={styles.container}>
-      <IPhone14 />
+      <WelcomeScreen />
     </View>
   );
 };
